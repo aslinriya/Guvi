@@ -8,7 +8,7 @@ import tensorflow as tf
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
 
 # Load the best model using joblib
-model = joblib.load('BestModel/best_model.pkl')  # Updated path
+model = joblib.load('best_model.pkl')  # Updated path
 
 # Define class names
 class_names = [
