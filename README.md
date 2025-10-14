@@ -1,2 +1,0 @@
-# Guvi
-Upskilling ourse
